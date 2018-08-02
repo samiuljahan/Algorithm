@@ -1,4 +1,4 @@
-# Simple Cheat Sheet to remmeber all the asymptotic notations
+# Simple Cheat Sheet to help remember all the asymptotic notations
 Simple cheat sheet to remember all the asymptotic notations.
 
 ## Asymptotic notations
